@@ -2,3 +2,5 @@
 .bundle
 Gemfile.lock
 pkg/*
+# Added to not force other to use below files.
+.rvmrc
